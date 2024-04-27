@@ -21,7 +21,12 @@ measures, the ISSS aims to create a safer work environment in
 industrial settings. Its ability to detect non-compliance and
 drowsiness in real-time enables timely intervention, ultimately
 reducing the risk of workplace accidents and injuries
+OUTPUT:-
 
 ![output](https://github.com/SnehaSL/smart-surveillance-system/blob/main/output.png)
+
+IMPLEMENTED IN RPI
+
+![Implemented in rpi](https://github.com/SnehaSL/smart-surveillance-system/blob/main/output1.png)
 
 
