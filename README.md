@@ -22,5 +22,6 @@ industrial settings. Its ability to detect non-compliance and
 drowsiness in real-time enables timely intervention, ultimately
 reducing the risk of workplace accidents and injuries
 
-![](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![output](https://github.com/SnehaSL/smart-surveillance-system/blob/main/output.png)
+
 
